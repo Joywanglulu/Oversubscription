@@ -1,4 +1,4 @@
-# Contrastive Learning from Positive and Unlabeled Data
+# Human-in-the-loop imitation learning
 
 ## Preparation
 Install the related package listed in requirements.txt
